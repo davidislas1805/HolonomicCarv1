@@ -64,7 +64,7 @@ Once this is done, you are ready to go.
 ## Future steps
 Though the result achieved with the first step of this personal project is good enough, undoubtably further improvements can be implemented with this car, said improvements will be the following:
 
-- Incorportae encoders for rpm control.
+- Incorporate encoders for rpm control.
 - Further insulate the ESP32 from the power electronics
 - Change from ESP32-WROVER to ESP32-S3-DevKitC.
 - Incorporate IMU data for redundancy.
